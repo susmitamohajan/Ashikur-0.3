@@ -372,7 +372,8 @@ margin-left: 0;
 
 .serviceApp .row{
     align-items: center;
-    justify-content: center;
+    /* justify-content: center; */
+     align-content: space-between;
 }
 
 .serviceApp .serviceImg img{
